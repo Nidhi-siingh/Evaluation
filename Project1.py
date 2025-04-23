@@ -1,1 +1,4 @@
-print ("Hello Jenkin, This is my first project")
+A = LAB
+B = ASSESSMENT
+SUM = A+B
+print ("The concatenate of A and B is:", SUM)
